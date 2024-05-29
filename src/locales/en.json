@@ -1,0 +1,29 @@
+{
+	"mainTitle": {
+		"studioName": "JP Studio"
+	},
+	"subTitle": {
+		"name": "Joshua",
+        "about": "About us",
+        "portfolio": "Projects Involved",
+        "feature": "Feature",
+        "demo": "Teaching Sample",
+        "contact": "Contact us"
+	},
+    "section1": {
+        "content": "JP Studio was founded in October 2023 by a young couple. In this information-explosive E-Age, websites have become an indispensable tool for generating income. Joshua is a full-stack engineer, while Penny handles PM-related tasks. Although we are a newly established personal studio, we have boundless hope and passion for the future. Currently, we operate on a project basis, with transparent pricing and high levels of customization. If you're interested in a quote or joining us, please feel free to contact us."
+    },
+    "section2": {
+        "blue": "LEUCO SAPPHIRE SHIPPING",
+        "TP": "Taipei Fine Arts Museum",
+        "TPECH": "Taipei City Hospital"
+    },
+    "section3": {
+        "content": "Besides taking on client projects, JP Studio has also launched web courses tailored for career transitions and further education in relevant fields. These courses include series like 'Starting from Scratch: Frontend Development', 'JS Demystified', 'Vue3', 'React Hooks', and more. Designed for those preparing for career changes or wishing to acquire new skills, we offer both one-on-one and small-group interactive sessions. If you're interested, feel free to inquire by leaving a message in the 'Contact Us' section below. We'll get back to you as soon as possible.",
+        "coursework": "Coursework"
+    },
+    "footer": {
+        "right": "User Terms",
+        "quoteButton": "Get a Quote"
+    }
+}
